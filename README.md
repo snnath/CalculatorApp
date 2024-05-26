@@ -39,6 +39,6 @@ Click the build and run button (or press Cmd + R).
 3. Swift 5.0+
 
 ##Contact
-For any inquirires or feedback, feel free to reach out to sn.nath5625@outlook.com
+For any inquiries or feedback, feel free to reach out to sn.nath5625@outlook.com
 
 Thank you for checking out the Swift Calculator App! We hope you find it useful and enjoyable to use. Happy calculating!
