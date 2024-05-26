@@ -13,7 +13,7 @@ Welcome to the Swift Calculator App repository! This project is designed to repl
 
 ## Screenshots
 
-![Standard Mode](screenshots/standard_mode.png)
+![Standard Mode](standard_mode.png)
 
 
 ## Getting Started
