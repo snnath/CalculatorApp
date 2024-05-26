@@ -22,8 +22,8 @@ To get started with the Swift Calculator App, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/swift-calculator-app.git
-   cd swift-calculator-app
+   git clone https://github.com/snnath/CalculatorApp.git
+   cd CalculatorApp
 
 2. **Open in Xcode**
    Open the .xcodeproj file in Xcode.
