@@ -4,12 +4,9 @@ Welcome to the Swift Calculator App repository! This project is designed to repl
 
 ## Features
 
-- **Standard and Scientific Modes**: Switch between standard arithmetic operations and advanced scientific functions with ease.
+- **Standard Mode**: Basic Arithmetic calculations can be performed using this.
 - **Intuitive UI**: A sleek, user-friendly interface that mimics the actual iPhone calculator app for familiarity and ease of use.
 - **Responsive Design**: Adapts seamlessly to various iPhone screen sizes and orientations.
-- **Error Handling**: Graceful handling of input errors and edge cases to prevent crashes and ensure reliability.
-- **History**: Keeps a log of recent calculations for easy reference and continuity.
-- **Accessibility**: Fully supports VoiceOver and other accessibility features to ensure usability for all users.
 
 ## Screenshots
 
